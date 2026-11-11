@@ -52,7 +52,6 @@ app.get('/question3', async (req, res) => {
     }
 });
 
-// בונוס1 
 
 
 app.listen(PORT, () => {
